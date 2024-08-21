@@ -22,6 +22,6 @@ pnpm-debug.log*
 *.sw?
 
 #proto
-./proto
 .browserslistrc
 .editorconfig
+src/services/proto
