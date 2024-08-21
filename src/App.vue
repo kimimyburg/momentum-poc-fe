@@ -21,10 +21,8 @@
 
         <v-list density="compact" nav>
           <v-list-item prepend-icon="mdi-account-group-outline" title="Patients" value="Patients" to="/patients"></v-list-item>
-          <v-list-item prepend-icon="mdi-dna" title="HLA Typing" value="HLA" to="/">
+          <v-list-item prepend-icon="mdi-dna" title="Claim" value="Claim" to="/">
           </v-list-item>
-            <v-list-item prepend-icon="mdi-camera-document" title="Myeloid" value="Myeloid" to="/myeloid"></v-list-item>
-            <v-list-item prepend-icon="mdi-dna" title="Confirmitory Typing" value="confirmitory" to="/login"></v-list-item>
         </v-list>
       </v-navigation-drawer>
     <v-main>
