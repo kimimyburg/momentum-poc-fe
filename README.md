@@ -113,7 +113,7 @@ Then build the proto:
 
 ```
 make proto_build
-``
+```
 
 ##### MacOs - Error
 
