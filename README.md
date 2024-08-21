@@ -115,7 +115,7 @@ Then build the proto:
 make proto_build
 ```
 
-#### MacOs - Error
+### MacOs - Error
 
 ```
 1. Run "/usr/local/bin/protoc-gen-grpc-web --help"
